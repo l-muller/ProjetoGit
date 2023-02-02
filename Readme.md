@@ -1,1 +1,2 @@
-Olá nesse projeto ensino você a usar o Git
+Olá, nesse projeto aprendo a implementar o Git.
+Teste de alteração
